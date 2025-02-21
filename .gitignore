@@ -1,3 +1,7 @@
+# Ignore IntelliJ files
 .idea/
 out/
 *.iml
+
+# Ignore compiled binaries
+*.class
